@@ -10,4 +10,5 @@ author: Ren, Meng
 
  * 18107050029.bib
  * 18107050029.tex
+ * gmcmthesis.cls
  
